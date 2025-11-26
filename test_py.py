@@ -1,2 +1,3 @@
-print("Hello, World! V2")
+print("run on jenkins server from git server python code.!!!")
+
 
