@@ -2,8 +2,7 @@ def add(a, b):
     return a + b
 
 
-def main():
-    
+def main():    
     print(f"main 2")
 
 
